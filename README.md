@@ -5,7 +5,7 @@ The original as supplied with [yaze][] (by Frank Cringle)
 and as binaries with [yaze-ag][] (by Andreas Gerlich).
 
 `zexdoc` only tests officially documented flag effects, whereas `zexall` tests 
-all flags changes, compared against test on real hardware.
+all flags changes, compared against tests on real hardware.
 
 * `yaze` / The original as supplied with YAZE. Author: Frank Cringle
 * `cpm` / ZEXALL and ZEXDOC source modified to assemble cleanly with ZMAC and
